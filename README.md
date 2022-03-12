@@ -14,6 +14,7 @@ The class label is spam and not spam, where "0" indicates not spam and "1" indic
 The aim of the study is to predict whether a review is spam or not by applying different models and evaluating the results from the best model.  
   
 # Project plan:  
+
 ## Data preprocessing:  
 * Change the data format from JSON to the data frame  
 * Remove empty rows, retain important columns (text, labels, category of product, review title)  
